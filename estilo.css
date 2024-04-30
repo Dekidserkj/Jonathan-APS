@@ -1,0 +1,28 @@
+body{
+    background: rgb(0, 255, 64);
+    color: rgba(26, 7, 18, 0.959);
+    text-align: center;
+}
+ 
+
+#principal{
+    background-color: rgba(0, 238, 255, 0.849);
+    color: rgba(255, 0, 43, 0.849);
+    padding: 20px;
+}
+
+#segunda{
+
+    background-color: rgb(171, 5, 221);
+    color: rgb(0, 255, 200);
+    text-align: right; 
+    padding: 50px 100px
+    
+}
+
+#tercera{
+    background-color: rgb(255, 0, 234);
+  color: rgb(0, 255, 0); 
+  text-align: left padding ; 
+  padding: 25px 50px 200px 100px;
+}
